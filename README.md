@@ -17,7 +17,7 @@ On the event page, the user can view in the sidebar on the right, a list of avai
 When selecting an available class, it's content is loaded in the main part of the screen, containing the video player, class description and other resources and information.
 A CMS panel was used to store and provide data to the application.
 
-### Technologies:
+#### Technologies:
 - React with Vite;
 - Typescript;
 - TailwindCSS;
