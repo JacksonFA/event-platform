@@ -1,7 +1,7 @@
 # Event Platform
 
 <p align="center">
-  <img width="460" height="300" src="src/assets/app-mockup.png">
+  <img src="src/assets/app-mockup.png">
 </p>
 
 ### English
